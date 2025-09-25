@@ -4,7 +4,7 @@
     <div class="container">
         <div class="btn-group" role="group">
             <a href="form_cadastra.php" type="button" class="btn btn-danger">Cadastrar Produto</a>
-            <a href="listar.php" type="button" class="btn btn-warning">Listar Produtos</a>
+            <a href="listar.php" type="button" class="btn btn-warning">Listar Os Produtos</a>
         </div>
     </div>
 

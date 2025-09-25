@@ -8,6 +8,6 @@
 </head>
 <body>
     <div class="container">
-        <h1>SISTEMA CRUD - LOJA</h1>
-        <h2>Allyson R.</h2>
+        <h1>Sistema Crud</h1>
+        <h2>Allyson R. - 2°C</h2>
     </div>
